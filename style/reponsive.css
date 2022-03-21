@@ -1,0 +1,20 @@
+@media screen and (max-width:700px) {
+    header .logo {
+        width: 60px;
+    }
+    .filme-destaque div p {
+        font-size: 10px;
+    }
+    .botoes button {
+        font-size: 10px;
+    }
+    nav {
+        display: none;
+    }
+
+}
+@media screen and (max-width:1200){
+    main {
+        height: 100%;
+    }
+}
